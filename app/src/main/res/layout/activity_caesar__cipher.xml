@@ -120,11 +120,11 @@
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
                 android:layout_marginTop="5dp"
-                android:layout_marginBottom="212dp"
+                android:layout_marginBottom="150dp"
                 android:fontFamily="monospace"
                 android:text="@string/decode"
                 android:textAppearance="@style/TextAppearance.AppCompat"
-                android:textSize="14sp"
+                android:textSize="11sp"
                 android:typeface="normal" />
         </RelativeLayout>
 
@@ -179,7 +179,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
                 android:layout_marginTop="5dp"
-                android:layout_marginBottom="212dp"
+                android:layout_marginBottom="150dp"
                 android:gravity="center"
                 android:text="@string/encode"
                 android:textAppearance="@style/TextAppearance.AppCompat" />

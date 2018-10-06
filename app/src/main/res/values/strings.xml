@@ -8,4 +8,5 @@
     <string name="txtDecode">Codificado</string>
     <string name="pre_values">abcdefghijklmnopqrstuvwxyz</string>
     <string name="pre_key">3</string>
+    <string name="caesar">Caesar Cipher</string>
 </resources>
