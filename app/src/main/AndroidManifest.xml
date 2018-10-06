@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Caesar_Cipher"></activity>
+        <activity android:name=".Caesar_Cipher" />
+        <activity android:name=".MainMenu"></activity>
     </application>
 
 </manifest>

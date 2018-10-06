@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DKZ_Tools</string>
+    <string name="encode">CODIFICAR</string>
+    <string name="decode">DECODIFICAR</string>
+    <string name="key">Llave</string>
+    <string name="values">Valores</string>
+    <string name="txtEncode">Decodificado</string>
+    <string name="txtDecode">Codificado</string>
+    <string name="pre_values">abcdefghijklmnopqrstuvwxyz</string>
+    <string name="pre_key">3</string>
 </resources>
